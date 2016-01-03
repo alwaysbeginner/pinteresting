@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.0.0'
+ruby '2.1.5'
 
 
 gem 'rails', '4.1.8'
@@ -15,6 +15,8 @@ gem 'jquery-rails'
 gem 'turbolinks'
 
 gem 'jbuilder', '~> 2.0'
+
+gem 'devise', '~> 3.5.3'
 
 gem 'bootstrap-sass' 
 group :doc do
